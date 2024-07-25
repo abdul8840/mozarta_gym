@@ -1,9 +1,11 @@
 import React from 'react'
+import Home from './components/Home'
+
 
 const App = () => {
   return (
-    <div className='text-2xl text-red-500'>
-      App
+    <div>
+      <Home />
     </div>
   )
 }
