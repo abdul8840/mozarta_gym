@@ -7,6 +7,7 @@ import Poster from './Poster'
 import OurClasses from './OurClasses'
 import Price from './Price'
 import Team from './Team'
+import Contact from './Contact'
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
       <OurClasses />
       <Price />
       <Team />
+      <Contact />
     </div>
   )
 }

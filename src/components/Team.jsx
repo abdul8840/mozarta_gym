@@ -35,7 +35,7 @@ const Team = () => {
         <div className="text-center mb-8">
             <p className="text-xl font-semibold text-[#EE4E4E]">Our Team</p>
             <h2 className='text-2xl font-bold'>TRAIN WITH EXPERTS</h2>
-            <div className="mt-10 flex flex-wrap justify-center md:justify-between items-center gap-5">
+        <div className="mt-10 flex flex-wrap justify-center md:justify-between items-center gap-5">
                 {team.map((item, index) => (
                     <div key={index} className="flex flex-col items-center justify-center gap-4 bg-[#111] w-[300px]">
                         <img src={item.image} alt={item.name} className="w-full rounded" />
