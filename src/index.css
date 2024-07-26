@@ -6,3 +6,11 @@ body{
     background: #000;
     color: #fff;
 }
+
+.back_img{
+    background-image: url(assets/work1.jpg);
+    opacity: 1;
+    height: 80vh;
+    background-size: cover;
+    background-attachment: fixed;
+  }

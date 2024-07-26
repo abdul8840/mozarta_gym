@@ -63,8 +63,8 @@ const Hero = () => {
                 className="w-full h-full object-cover opacity-[0.7]"
               />
               <div className="absolute bottom-20 w-full mx-auto text-center bg-white bg-opacity-50 p-2 rounded">
-                <p className='text-[#FF5F00] font-semibold text-md mb-2'>{image.caption}</p>
-                <h2 className='text-3xl font-semibold text-white bg-[#FF5F00]'>{image.caption2}</h2>
+                <p className='text-[#EE4E4E] font-semibold text-xl mb-2'>{image.caption}</p>
+                <h2 className='text-3xl font-semibold p-2 text-white bg-[#EE4E4E]'>{image.caption2}</h2>
               </div>
               {/* <div className="absolute inset-0 flex flex-col justify-center items-center text-center bg-white bg-opacity-50 p-2 rounded">
                 <p className='text-[#FF5F00] font-semibold text-md'>{image.caption}</p>
