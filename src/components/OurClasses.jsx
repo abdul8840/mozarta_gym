@@ -37,7 +37,7 @@ const OurClasses = () => {
           },
       ];
   return (
-    <div className='mt-20 mb-10 max-w-5xl mx-auto'>
+    <div className='mt-20 mb-10 max-w-5xl mx-auto' id='classes'>
         <div className="text-center mb-8">
             <p className="text-xl font-semibold text-[#EE4E4E]">Our Classes</p>
             <h2 className='text-2xl font-bold'>Connect With Us</h2>

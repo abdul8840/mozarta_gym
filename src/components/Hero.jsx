@@ -49,7 +49,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="relative w-full h-[80vh]">
+    <div className="relative w-full h-[80vh]" id='home'>
       <div className="overflow-hidden relative rounded-lg shadow-lg h-full">
         <div
           className="flex transition-transform duration-500 ease-in-out"

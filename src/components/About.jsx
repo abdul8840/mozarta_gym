@@ -27,7 +27,7 @@ const About = () => {
         },
       ];
   return (
-    <div className='mt-20 mb-10 max-w-5xl mx-auto'>
+    <div className='mt-20 mb-10 max-w-5xl mx-auto' id="about">
         <div className="text-center mb-8">
             <p className="text-xl font-semibold text-[#EE4E4E]">Why choose us</p>
             <h2 className='text-2xl font-bold'>PUSH YOUR LIMITS FORWARD</h2>

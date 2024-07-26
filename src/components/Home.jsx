@@ -8,6 +8,7 @@ import OurClasses from './OurClasses'
 import Price from './Price'
 import Team from './Team'
 import Contact from './Contact'
+import Footer from './Footer'
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
       <Price />
       <Team />
       <Contact />
+      <Footer />
     </div>
   )
 }
