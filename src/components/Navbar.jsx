@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="bg-transparent p-4 sticky">
-      <div className="max-w-4xl mx-auto flex justify-between items-center">
+      <div className="max-w-5xl mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <span className="text-[#EE4E4E] text-xl font-bold">Mozarta<span className='text-slate-500'>Gym</span></span>
         </div>
